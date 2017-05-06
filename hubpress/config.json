@@ -4,7 +4,9 @@
     "repositoryName": "carsnwd.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Carson's Blog"
+  },
   "socialnetwork": {},
   "theme": {
     "name": "ghostium"
